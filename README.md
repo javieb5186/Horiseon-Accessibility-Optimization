@@ -10,10 +10,10 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+I was given a website that was not accessible. I made the website accessible as well as inserted comments for new developers to continue on. 
 
 - What was your motivation?
-  My motivation is to make my new client happy. 
+  My motivation is to make my new client happy and develop a long lasting relationship. 
 
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
   I build this project to better understand accessibility and apply coding practices.
